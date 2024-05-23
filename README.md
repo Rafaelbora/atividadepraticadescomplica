@@ -9,7 +9,7 @@ mkdir images
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Meu Projeto</title>
+    <title>meu-projeto</title>
 </head>
 <body>
     <h1>Bem-vindo ao meu projeto!</h1>
@@ -17,4 +17,5 @@ mkdir images
     <img src="images/minha-imagem.jpg" alt="Minha Imagem">
 </body>
 </html>
+
 
